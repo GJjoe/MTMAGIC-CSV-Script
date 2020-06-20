@@ -1,0 +1,28 @@
+c:\users\server\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+c:\users\server\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+c:\users\server\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsInput.dll
+c:\users\server\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsInput.xml
+c:\users\server\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+c:\users\server\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+c:\users\server\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+c:\users\server\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+c:\users\server\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+c:\users\server\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\short\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsInput.xml
+C:\Users\short\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\short\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\short\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\short\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\short\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CSV Magic.exe
+C:\Users\short\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CSV Magic.pdb
+C:\Users\short\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\CSV Magic.exe
+C:\Users\short\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\CSV Magic.pdb
+C:\Users\short\Documents\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CSV Magic.exe
+C:\Users\short\Documents\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\CSV Magic.pdb
+C:\Users\short\Documents\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsInput.xml
+C:\Users\short\Documents\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\short\Documents\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\short\Documents\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\short\Documents\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\short\Documents\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\CSV Magic.exe
+C:\Users\short\Documents\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\CSV Magic.pdb
